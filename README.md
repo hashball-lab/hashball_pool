@@ -1,2 +1,2 @@
 # hashball_pool
-Pools in hashball, write by solidity.
+Pools in hashball, written by solidity.
